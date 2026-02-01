@@ -3,4 +3,4 @@ git --version                     # Check Git installation
 git config --global user.name Kesav
 git config --global user.email your@email.com
 git config --list                 # Verify configuration
-
+this is what i learned in the day1 
