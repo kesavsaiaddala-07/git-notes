@@ -1,1 +1,6 @@
 GIT Day-1 Notes
+git --version                     # Check Git installation
+git config --global user.name Kesav
+git config --global user.email your@email.com
+git config --list                 # Verify configuration
+
